@@ -2,7 +2,7 @@
 
 -------------------
  <p align="left">
-  <img src="https://img.shields.io/badge/Interests-Distributed Systems, Big Data, Machine Learning-dodgerblue" />
+  <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />
   <a href="mailto:wonook@apache.org"><img src="https://img.shields.io/badge/I'm looking for a job!-critical" /></a>
 </p>
