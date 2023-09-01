@@ -4,7 +4,7 @@
  <p align="left">
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />
-  <a href="mailto:wonook@apache.org"><img src="https://img.shields.io/badge/I'm looking for a job!-critical" /></a>
+<!--   <a href="mailto:wonook@apache.org"><img src="https://img.shields.io/badge/I'm looking for a job!-critical" /></a> -->
 </p>
 
 ### Hi, I'm Won Wook (pronounced as Wonook, written as 원욱) and I’m a Ph.D. candidate in Computer Science at Seoul National University, advised by Professor Byung-Gon Chun.
