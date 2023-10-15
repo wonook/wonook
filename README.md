@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Wonook 👋</h1>
 
 -------------------
- <p align="left">
+<p align="left">
   <img src="https://img.shields.io/badge/Interests-Distributed Systems, Clouds, Big Data, Data Processing, Machine Learning-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English, Korean, French-dodgerblue" />
-<!--   <a href="mailto:wonook@apache.org"><img src="https://img.shields.io/badge/I'm looking for a job!-critical" /></a> -->
 </p>
 
-### Hi, I'm Won Wook (pronounced as Wonook, written as 원욱) and I’m a Ph.D. candidate in Computer Science at Seoul National University, advised by Professor Byung-Gon Chun.
-### I’m about to graduate in August 2023, and my research interests reside in <em>distributed systems</em> for efficiently processing <em>big data</em> and <em>machine learning</em> workloads.
+### Hi 👋, I'm Won Wook (pronounced as Wonook) and my research interests reside in distributed systems for efficiently processing big data and performing large-scale AI.  
+### I finished my Ph.D. in computer science at <a href="https://en.snu.ac.kr">Seoul National University</a> in 2023, under the supervision of <a href="https://bgchun.github.io">Professor Byung-Gon Chun</a>. My dissertation title is "Efficient and Adaptive Resource Management for Dynamically Optimizing Distributed Data Processing Systems". I also received my B.S. degree in computer science from <a href="https://en.snu.ac.kr">Seoul National University</a> in 2017.
+<br><a href="https://docs.google.com/document/d/1S3vEHc9leVQ0NK_5GjvWHoKbbqGtxPJ-8Ka5jIDXzmc/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Click for CV-critical" /></a>
 
 <br>
 
